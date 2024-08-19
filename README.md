@@ -10,6 +10,10 @@
     git clone 
 ```
 
+### Important Notice
+
+For using the two datasets METR-LA and PEMS-BAY, please unzip the file named “data_in_12_out_12_rescale_True.zip” in the two dataset dictionary first.
+
 ### Run it
 
 You can reproduce these models by running the following command:
