@@ -6,6 +6,9 @@ The raw data can be downloaded at this [Google Drive](https://drive.google.com/d
 
 The `raw_data (with large-scale datasets).zip` in the link is the full version with all datasets, including large-scale datasets. If you don't need these large-scale datasets, you can download `raw_data.zip`.
 
+## Important Notice
+For using the two datasets METR-LA and PEMS-BAY, please unzip the file named “data_in_12_out_12_rescale_True.zip” in the two dataset dictionary first.
+
 ## Datasets Description
 
 ### 1. METR-LA
