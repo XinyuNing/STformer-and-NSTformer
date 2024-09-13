@@ -1,6 +1,6 @@
 # STformer-and-NSTformer
 
-## This program for checking of submission 12241 of AAAI 2025, contains the model, experimental environment and the experimental results of STformer and NSTformer.
+## This program contains the code and uesd datasets by STformer and NSTformer.
 
 ## How to Run
 
